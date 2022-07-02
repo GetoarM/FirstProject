@@ -1,4 +1,4 @@
 # FirstBootstrapProject
 
 
-Link to the website is [here](https://getoarm.github.io/FirstProject/)!
+Link to the website is [here](https://getoarm.github.io/ first-bootstrap-project/)!
